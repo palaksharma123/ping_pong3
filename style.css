@@ -1,0 +1,22 @@
+.copy_right_footer{
+    background-color: palevioletred;
+    line-height: 2;
+    color: rebeccapurple;
+    margin: 0px;
+}
+
+body
+{
+background-size:cover;
+}
+.heading{
+      text-align: left;
+    width: 100%;
+}
+.heading button{
+    float: right;
+    border: 1px solid grey;
+}
+.heading h3{
+    display: inline;
+}
